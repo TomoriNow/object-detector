@@ -83,8 +83,8 @@ function App() {
             right: 0,
             textAlign: "center",
             zindex: 8,
-            width: 640,
-            height: 480,
+            width: 1000,
+            height: 768,
           }}
         />
       </header>
